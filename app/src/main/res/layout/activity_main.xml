@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#FAD8F1"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/EnterFriendView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/company" />
+
+    <EditText
+        android:id="@+id/Company_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/company"
+         />
+    <Button
+        android:id="@+id/main_go_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:onClick="goForSearchActivity"
+        android:text="@string/go"/>
+
+
+</LinearLayout>

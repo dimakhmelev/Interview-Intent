@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">MyInterview</string>
+    <string name="location_edit_txt">Holon Institute of Technology</string>
+    <string name="btn_location_txt">Open Location</string>
+    <string name="url_edit_txt">www.hit.ac.il</string>
+    <string name="btn_url_txt">Open URL</string>
+    <string name="share_edit_txt">Android is the best</string>
+    <string name="btn_share_txt">Open Chooser</string>
+    <string name="company">Enter company name</string>
+    <string name="go">Go!</string>
+    <string name="google_search">Google search</string>
+    <string name="map">map</string>
+    <string name="next">next</string>
+    <string name="addContact">add Contact</string>
+    <string name="Email">email</string>
+    <string name="name">name</string>
+    <string name="phone">phone</string>
+    <string name="text">phone</string>
+    <string name="send">Send Email</string>
+    <string name="set_time_for_question">Set time for question</string>
+    <string name="enter_time_here">enter time here</string>
+    <string name="start">start</string>
+    <string name="interview_subject">interview subject</string>
+    <string name="hour">hour</string>
+    <string name="min">min</string>
+    <string name="set_alarm">set alarm</string>
+    <string name="call_now">call now</string>
+    <string name="enter_alarm_title">Enter alarm title</string>
+    <string name="type_here">Type here</string>
+    <string name="enter_hour">Enter hour</string>
+    <string name="enter_minute">Enter minute</string>
+
+
+</resources>
